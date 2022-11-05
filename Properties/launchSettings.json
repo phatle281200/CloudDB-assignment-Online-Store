@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Online_Store": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7018",
+      "launchBrowser": false
+    }
+  }
+}
